@@ -9,10 +9,8 @@
 - [java-lotto-6](https://github.com/ComWith-woowa-study/java-lotto-6) 🎰 로또 번호 추첨기
 - [java-christmas-6](https://github.com/ComWith-woowa-study/java-christmas-6) 🎄 크리스마스 이벤트
 
-## 🙋‍♂️ 팀원
-| 이름 | GitHub |
-|------|--------|
-| 채원 | [C-ongshim](https://github.com/C-ongshim) |
-| 병욱 | [Rockernun](https://github.com/Rockernun) |
-| 시니 | [smiinii](https://github.com/smiinii) |
-| 재영 | [yim0327](https://github.com/yim0327) |
+## 👩‍💻 팀원
+| <img src="https://github.com/smiinii.png" width="120"> | <img src="https://github.com/Rockernun.png" width="120"> | <img src="https://github.com/C-ongshim.png" width="120"> | <img src="https://github.com/yim0327.png" width="120"> |
+|:---:|:---:|:---:|:---:|
+| **이성민**<br/>[smiinii](https://github.com/smiinii) | **박병욱**<br/>[Rockernun](https://github.com/Rockernun) | **이채원**<br/>[C-ongshim](https://github.com/C-ongshim) | **임재영**<br/>[yim0327](https://github.com/yim0327) |
+
