@@ -29,7 +29,6 @@
 - [java-baseball-6](https://github.com/ComWith-woowa-study/java-baseball-6) ⚾ 숫자 야구 게임
 - [java-racingcar-6](https://github.com/ComWith-woowa-study/java-racingcar-6) 🚗 자동차 경주 게임
 - [java-lotto-6](https://github.com/ComWith-woowa-study/java-lotto-6) 🎰 로또 번호 추첨기
-- [java-christmas-6](https://github.com/ComWith-woowa-study/java-christmas-6) 🎄 크리스마스 이벤트
 
 ## 👩‍💻 팀원
 | <img src="https://github.com/smiinii.png" width="120"> | <img src="https://github.com/Rockernun.png" width="120"> | <img src="https://github.com/C-ongshim.png" width="120"> | <img src="https://github.com/yim0327.png" width="120"> |
